@@ -1,0 +1,7 @@
+debug
+server ns1.brillig.org
+zone bentboolean.com.
+key bklyn.bentboolean.com [KEY]
+update add h2.bentboolean.com. 60 A 10.0.0.1
+send
+quit
